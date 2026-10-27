@@ -118,5 +118,4 @@ Cite relevant papers, articles, or resources that supported your project.
 ---
 
 ## 🙏 **Acknowledgements** (Optional but encouraged)
-
 Thank your Challenge Advisor, host company representatives, TA, and others who supported your project.
