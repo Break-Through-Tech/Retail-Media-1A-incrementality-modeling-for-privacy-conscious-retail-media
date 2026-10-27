@@ -9,7 +9,8 @@
 | Name             | GitHub Handle | Contribution                                                             |
 |------------------|---------------|--------------------------------------------------------------------------|
 | Samantha Betancourt    | @samaebet | Data discovery, issue creation & assignment            |
-| Diya Jhawar  | @diyajh    | Data collection/discovery, assignment|
+| Diya Jhawar      | @diyajh       | Data collection/discovery, assignment|
+| Alyssa Flusser   | @aflusser     | Data collection, documentation |
 | Jordan Ramirez   | @jramirez     | Data collection, exploratory data analysis (EDA), dataset documentation  |
 | Amina Hassan     | @aminahassan  | Data preprocessing, feature engineering, data validation                 |
 | Priya Mehta      | @pmehta       | Model selection, hyperparameter tuning, model training and optimization  |
